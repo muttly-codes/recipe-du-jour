@@ -1,0 +1,12 @@
+#header{
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+#ingredients{
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#method{
+    font-size: 2rem;
+    font-family: cursive;
+}
